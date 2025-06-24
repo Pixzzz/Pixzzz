@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Eleazar Moreta — aka Pi</h1>
 <p>🎯 I'm a passionate Fullstack Developer, mainly working with the <strong>MERN stack</strong>.<br>
-📚 Constantly learning and building cool stuff.<br>
-💡 Currently 20 y/o and already breaking things in production! 😭</p>
+📚 Constantly learning to build cool stuff.<br>
+💡 Currently 20 y/o  😭</p>
 
 <h2>🧰 Tech Stack & Learning</h2>
 

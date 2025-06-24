@@ -1,39 +1,34 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1>👋 Hi, I'm Eleazar Moreta — aka Pi</h1>
+<p>🎯 I'm a passionate Fullstack Developer, mainly working with the <strong>MERN stack</strong>.<br>
+📚 Constantly learning and building cool stuff.<br>
+💡 Currently 20 y/o and already breaking things in production! 😭</p>
 
-###
+<h2>🧰 Tech Stack & Learning</h2>
 
-<p align="left">My name is Eleazar and I'm a Front-end dev, from Dominican Republic</p>
+<h3>Languages & Runtime:</h3>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-###
+<h3>Frontend & Styling:</h3>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<h2 align="left">About me</h2>
+<h3>Backend & Database:</h3>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-###
+<h2>📊 GitHub Stats</h2>
 
-<p align="left">✨ At moment working on private projects<br>📚 I'm currently learning more front-end skills or techs<br>🎯 Goals: improve my front-end skills and learn how to optimize web apps</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Pixzzz&show_icons=true&theme=transparent" alt="Eleazar's GitHub stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixzzz&layout=compact" alt="Top Languages"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pixzzz&theme=transparent" alt="GitHub Streak"/>
 
-###
-
-<h2 align="center">Languages and tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixzzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<h2>🚀 Featured Projects</h2>
+<ul>
+  <li>🎮 <a href="https://github.com/Pixzzz/memory-game" target="_blank">Memory Game with React</a></li>
+  <li>📋 <a href="https://github.com/Pixzzz/task-manager-api" target="_blank">Task Manager API with Node + MongoDB</a></li>
+  <li>🧾 <a href="https://github.com/Pixzzz/csharp-crud" target="_blank">Simple CRUD with C#</a></li>
+</ul>

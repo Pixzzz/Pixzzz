@@ -24,11 +24,6 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixzzz&layout=compact" alt="Top Languages"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pixzzz&theme=transparent" alt="GitHub Streak"/>
 
-<h2>🚀 Featured Projects</h2>
-<ul>
-  <li>🎮 <a href="https://github.com/Pixzzz/memory-game" target="_blank">Memory Game with React</a></li>
-  <li>📋 <a href="https://github.com/Pixzzz/task-manager-api" target="_blank">Task Manager API with Node + MongoDB</a></li>
-  <li>🧾 <a href="https://github.com/Pixzzz/csharp-crud" target="_blank">Simple CRUD with C#</a></li>
-</ul>
+
+

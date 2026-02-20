@@ -1,7 +1,8 @@
 <h1>👋 Hi, I'm Eleazar Moreta — aka Pi</h1>
 <p>🎯 I'm a passionate Fullstack Developer, mainly working with the <strong>MERN stack</strong>.<br>
 📚 I'm currently facing my Software engineer degree at UNICDA <br>
-📧 Can contact with me eleazar1225@hotmail.com
+📧 Can contact with me by <a href="mailto:eleazar1225@hotmail.com">email</a>
+
 
 
 

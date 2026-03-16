@@ -11,7 +11,6 @@
  <p> <a href="https://github.com/Pixzzz/LinkVault">LinkVault</a> - Working on this bookmark management application that allows users to save, organize, and manage their favorite links efficiently. </p>
 <h2>🧰 Tech Stack & Learning</h2>
 
-<h3>Languages & Runtime:</h3>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>

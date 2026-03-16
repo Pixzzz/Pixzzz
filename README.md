@@ -8,7 +8,7 @@
 
 <h2>Projects</h2>
 <p><a href="https://github.com/DavielSanchez/SITRAMRD-FRONTEND">SitramRD </a> - Application designed to manage and optimize traffic efficiently in the Dominican Republic.</p> <br>
- <p> <a href="https://github.com/Pixzzz/LinkVault">LinkVault</a> - Working on,A bookmark management application that allows users to save, organize, and manage their favorite links efficiently. </p>
+ <p> <a href="https://github.com/Pixzzz/LinkVault">LinkVault</a> - Working on this bookmark management application that allows users to save, organize, and manage their favorite links efficiently. </p>
 <h2>🧰 Tech Stack & Learning</h2>
 
 <h3>Languages & Runtime:</h3>

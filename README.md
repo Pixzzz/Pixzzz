@@ -17,8 +17,11 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+</p>
+
+<h1>Githu Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Pixzzz&show_icons=true&theme=transparent" alt="Eleazar's GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixzzz&layout=compact" alt="Top Languages"/>
-</p>
+
 
 

@@ -7,8 +7,8 @@
 📧 Can contact with me at <a href="mailto:eleazar1225@hotmail.com">eleazar1225@hotmail.com</a>
 
 <h2>Projects</h2>
-<a href="https://github.com/DavielSanchez/SITRAMRD-FRONTEND">SitramRD - Application designed to manage and optimize traffic efficiently in the Dominican Republic.</a>
-<a href="https://github.com/Pixzzz/LinkVault">LinkVault - Working on,A bookmark management application that allows users to save, organize, and manage their favorite links efficiently. </a>
+<a href="https://github.com/DavielSanchez/SITRAMRD-FRONTEND">SitramRD - Application designed to manage and optimize traffic efficiently in the Dominican Republic.</a> <br>
+<a href="https://github.com/Pixzzz/LinkVault">LinkVault <p> - Working on,A bookmark management application that allows users to save, organize, and manage their favorite links efficiently. </p></a>
 <h2>🧰 Tech Stack & Learning</h2>
 
 <h3>Languages & Runtime:</h3>
